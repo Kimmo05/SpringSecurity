@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-당신은 관리자가 아닙니다!!
+중복되서 로그인 안되요
 </body>
 </html>

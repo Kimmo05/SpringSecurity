@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-당신은 관리자가 아닙니다!!
+사용자
 </body>
 </html>
